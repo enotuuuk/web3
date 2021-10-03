@@ -2,9 +2,8 @@ header, footer {
   background-color: black;
 }
 table {
-background: yellow;
+background: gray;
     color: black;
-
 }
 table, th, td {
     border: 2px solid black;
